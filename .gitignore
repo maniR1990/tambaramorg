@@ -9,10 +9,9 @@
 /coverage
 
 # production
-
+tmp/app
 # development
-/src
-/build/app
+
 
 # misc
 .DS_Store
