@@ -10,6 +10,7 @@
 
 # production
 tmp/app
+build /tmp/app
 # development
 
 
