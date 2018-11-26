@@ -6,7 +6,7 @@ import axios from 'axios';
 
 class App extends Component {
   componentDidMount() {
-  axios.get (`http://5bfa8769a6af660013f1a0b8.mockapi.io/users`)
+  axios.get (`https://5bfa8769a6af660013f1a0b8.mockapi.io/users`)
   .then((res) => {
     console.log(res.data);
   })
